@@ -175,7 +175,7 @@ class MicrowaveAnimation(Scene):
             radius=0.25,
             fill_color=GREEN,
             fill_opacity=0.7,
-            stroke_color=DARK_GREEN,
+            stroke_color=GREEN_C,
             stroke_width=1
         )
         food_item2.shift(UP * 0.3 + RIGHT * 0.4)
@@ -184,7 +184,7 @@ class MicrowaveAnimation(Scene):
             radius=0.2,
             fill_color=GREEN,
             fill_opacity=0.7,
-            stroke_color=DARK_GREEN,
+            stroke_color=GREEN_C,
             stroke_width=1
         )
         food_item3.shift(UP * 0.2 + LEFT * 0.5)
